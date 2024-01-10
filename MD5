@@ -1,0 +1,16 @@
+30dfcbf8736e9887c7b416feff45b898 *DESCRIPTION
+8425a2716aa9e1614f3d107c92ff4e70 *NAMESPACE
+88fd7b1a1963912587289e554e5fa0f9 *R/AnnualRF_raster.R
+e0cc35b751160b235b6ebb8bdf6b095a *R/MonthlyRF_raster.R
+77e3e0095e2fbc6e8c5ca58cd02017b6 *R/SeasonalRF_raster.R
+0f55118dc6aa57f5476918e6ae93ade4 *R/WeeklyRF_raster.R
+b9a85b50cf0f639f8d45ea5b95a724e6 *build/vignette.rds
+cbc64c875f75d92a7b4c70ba03ad50be *inst/doc/CLimd.R
+70de2497c71053cf2d1cc1b8594c104e *inst/doc/CLimd.Rmd
+f066066253b9b23dae24ef15e5c9b449 *inst/doc/CLimd.html
+3d6fa21feecd0242bc2f790f40367eca *inst/extdata/imd_RF_2022.nc
+15f4e4a10b64a7244958429bbacd56e1 *man/AnnualRF_raster.Rd
+5cd1cfc4e588e8192013127d1625b331 *man/MonthRF_raster.Rd
+c35c1b6729d48d8d5cb7648e443f0a60 *man/SeasonalRF_raster.Rd
+8675a2b657d5443827891cb9767dc02e *man/WeeklyRF_raster.Rd
+70de2497c71053cf2d1cc1b8594c104e *vignettes/CLimd.Rmd
